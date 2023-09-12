@@ -187,7 +187,9 @@ footer a {
     color: #fff;
 }
 
-
+html {
+  scroll-behavior: smooth;
+}
 
 
 
